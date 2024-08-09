@@ -1,0 +1,11 @@
+리소스이름,객체 ID,리소스 ID,인스턴스 개수,자료형,범위
+Power Source,4001,4016,1,B,
+Speed,1002,4611,1,I,
+Auto Mode,1002,1011,1,B,
+Interval,4802,2606,1,I,
+Lock State,3201,3206,1,B,
+Night Mode,3600,3600,1,B,
+Filter,4401,2001,1,I,0~100
+fine dust_PM1.0,1004,2007,1,I,0~999
+fine dust_PM2.5,1004,2006,1,I,0~999
+sensitivity,4601,4602,1,I,

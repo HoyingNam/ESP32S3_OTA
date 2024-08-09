@@ -1,0 +1,21 @@
+{
+    "idf.port": "com9", // 또는 해당하는 시리얼 포트
+    "idf.flashType": "esp32",
+    "idf.frameworkDir": "${env:IDF_PATH}",
+    "idf.toolsDir": "${idf.frameworkDir}/components/esptool_py/esptool",
+    "idf.pyPath": "C:/Users/mnyu/AppData/Local/Microsoft/WindowsApps/python.exe",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [],
+    "idf.customExtraVars": [],
+    "idf.flashFrequency": "40m",
+    "idf.flashSize": "4MB",
+    "idf.portMonitorBaud": 115200,
+    "idf.pythonBinPath": "/usr/bin/python",
+    "idf.portWin": "COM11",
+    "files.associations": {
+        "damda_esp32_project.h": "c",
+        "stdio.h": "c",
+        "freertos.h": "c",
+        "nvs.h": "c"
+    } // 파이썬 실행 경로
+}

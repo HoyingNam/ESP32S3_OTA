@@ -1,0 +1,12 @@
+리소스이름,객체 ID,리소스 ID,인스턴스 개수,자료형,범위
+Power Source,4001,4016,1,B,
+temperature,4800,4802,1,I,-100~100
+temperatureSettings,4800,4812,1,I,-100~100
+temperatureSettingsMode,4800,4813,1,I,1~4
+SalesTarget,5404,6006,1,I,1~3
+Lock State,3201,3206,1,B,
+TemperUnit,4800,5000,1,B,
+openState,1603,3803,1,B,
+errorCode,3802,3421,1,I,0~8
+AlarmStatus,1603,3810,1,B,
+SalesTarget,5404,6006,1,I,1~3

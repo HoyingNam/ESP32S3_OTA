@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/workspace/SDK/esp-idf/components/freertos/FreeRTOS-Kernel/include",
+                "D:/workspace/SDK/esp-idf/components/**",
+                "D:/workspace/SDK/esp-idf/components/mqtt/esp-mqtt/include",
+                "D:/workspace/SDK/esp-idf/components/esp_http_client/include",
+                "D:/workspace/ESPTest/esp/esp-idf/components/tcpip_adapter/include"
+            ],
+            "defines": [
+                "CONFIG_LOG_MAXIMUM_LEVEL=4"
+            ],
+            "compilerPath": "${config:idf.toolsPathWin}\\tools\\xtensa-esp32s3-elf\\esp-2021r2-patch2-8.4.0\\xtensa-esp32s3-elf\\bin\\xtensa-esp32s3-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/CMakeFiles/bootloader
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/CMakeFiles/bootloader.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/CMakeFiles/bootloader-complete.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/workspace/SDK/damda_esp32_project/damda_esp32_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
